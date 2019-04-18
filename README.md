@@ -17,5 +17,5 @@ bikeshare.py
 README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+After finishing the PFDS ND, i will definitely looking forward to take the Data Analyst or the Data engineer ND.
 

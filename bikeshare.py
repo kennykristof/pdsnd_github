@@ -80,7 +80,7 @@ def load_data(city, month, day):
         df = df[df['day_of_week'] == day.title()]
     
     return df
-
+	# that was the most challenging part for me
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
@@ -107,7 +107,7 @@ def time_stats(df):
     print('The most common hour is\n' most_common_hour)
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+	# using panda dataframes was kinda straightforward for me
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
